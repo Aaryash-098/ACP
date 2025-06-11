@@ -7,6 +7,8 @@ class code {
             System.out.println("enter 2 number");
             float y = sc.nextFloat();
             float x = sc.nextFloat();
+            float z =  x / y ;
+            System.out.println("The answer is ");
         }
     }
 }
